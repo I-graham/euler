@@ -1,0 +1,21 @@
+{
+	"makefile.extensionOutputFolder": "./.vscode",
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"builds": true,
+		".vscode": true,
+		"makefile": true
+	},
+	"hide-files.files": [
+		"builds",
+		".vscode",
+		"makefile"
+	],
+	"editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+	"editor.tabSize": 4
+}

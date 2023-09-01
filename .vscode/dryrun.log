@@ -1,0 +1,8 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/igm/lab/euler'
+rm -rf ./target
+mkdir target
+rm -rf ./builds
+mkdir builds
+make: Leaving directory '/home/igm/lab/euler'
+ 
